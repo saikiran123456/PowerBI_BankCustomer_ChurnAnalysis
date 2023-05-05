@@ -11,9 +11,11 @@ Analyse the data and bring out few insights on the customer Churn.
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
-![3_1_promo](https://github.com/saikiran123456/PowerBI_BankCustomer_ChurnAnalysis/blob/Machine-learning/POWERPNT_3o4LoSUi1x.mp4)
+
+[POWERPNT_3o4LoSUi1x-output.webm](https://user-images.githubusercontent.com/37768258/236507997-43d99bfa-6b5b-46ce-a9f7-9f0be4a27134.webm)
 
 ## 1)	Data Gathering:
+
 Data assets to pull the data related to Bank customer and associated details.
 ActiveCustomer.xlsx
 Bank_Churn.csv
@@ -75,7 +77,7 @@ Denotes whether or not a customer has a credit card. This column is also relevan
 
 
 
-# TASKS
+### End To End - TASKS Performed - Life Cycle of a Data Analyst
 
 • Requirement Gathering (BRD / FRD)
 • Data Collections (Database / CSV/ Excel)
