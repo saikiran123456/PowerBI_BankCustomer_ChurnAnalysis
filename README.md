@@ -4,7 +4,7 @@ Using PowerBI, Story has been created to solve the RBC Bank Customer CHURN Analy
 
 Real_Time Project Which was given by TechTip 24 , Complete Analysis using Excel, MySQL, PowerBI, Online PowerBI Dashboard Publishing, REFRESH Options, Gateway setup and Live PowerPoint Embed 
 
-* **Problem Statement :*
+##* **Problem Statement :*
 ## Churn Analysis:
 Analyse the data and bring out few insights on the customer Churn.
 
@@ -84,13 +84,13 @@ Denotes whether or not a customer has a credit card. This column is also relevan
 
 ### End To End - TASKS Performed - Life Cycle of a Data Analyst
 
-• Requirement Gathering (BRD / FRD)
-• Data Collections (Database / CSV/ Excel)
-• Data Modelling
-• Data Cleaning / Data Pre-processing
-• UI Report (Charts / Custom Charts)
-• Additional Information (DAX Calculations)
-• RLS
+- Requirement Gathering (BRD / FRD)
+- Data Collections (Database / CSV/ Excel)
+- Data Modelling
+- Data Cleaning / Data Pre-processing
+- UI Report (Charts / Custom Charts)
+- Additional Information (DAX Calculations)
+- RLS
 
 
 • Created a Workspace (Provided workspace access within team)
@@ -103,11 +103,11 @@ Denotes whether or not a customer has a credit card. This column is also relevan
 • Created App and Shared
 
 
-• Part 1
+- Part 1
 • Requirement Gathering / Data Collection
-• Part 2
+- Part 2
 • Data transformations / Data Computations
-• Part 3
+- Part 3
 • Power BI Reports / UI
-• Part 4
+- Part 4
 • Dashboard / Publishing
