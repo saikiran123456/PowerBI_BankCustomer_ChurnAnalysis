@@ -1,4 +1,5 @@
 # BANK Customer CHURN Analysis
+|:-:|:-:|
 
 Using PowerBI, Story has been created to solve the RBC Bank Customer CHURN Analysis case study
 
@@ -6,16 +7,20 @@ Real_Time Project Which was given by TechTip 24 , Complete Analysis using Excel,
 
 ##* **Problem Statement :*
 ## Churn Analysis:
+|:-:|:-:|
 Analyse the data and bring out few insights on the customer Churn.
 
 It is advantageous for banks to know what leads a client towards the decision to leave the company.
 Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
 
-[Video Presentation][POWERPNT_3o4LoSUi1x-output.webm](https://user-images.githubusercontent.com/37768258/236507997-43d99bfa-6b5b-46ce-a9f7-9f0be4a27134.webm)
+[Video Presentation]
+[POWERPNT_3o4LoSUi1x-output.webm](https://user-images.githubusercontent.com/37768258/236507997-43d99bfa-6b5b-46ce-a9f7-9f0be4a27134.webm)
+
 
 |Visual|Insights|MicrosoftPowerBI-Service|
 |:-:|:-:|
+
 ![chrome_aM4epRA2J9](https://user-images.githubusercontent.com/37768258/236509827-4a6e6bdd-0a45-4226-9e43-e7f41a139e7a.gif)
 
 
