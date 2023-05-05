@@ -19,7 +19,7 @@ Churn prevention allows companies to develop loyalty programs and retention camp
 
 |Visual|Insights|MicrosoftPowerBI-Service|
 
-|![chrome_aM4epRA2J9](https://user-images.githubusercontent.com/37768258/236509827-4a6e6bdd-0a45-4226-9e43-e7f41a139e7a.gif)|
+![chrome_aM4epRA2J9](https://user-images.githubusercontent.com/37768258/236509827-4a6e6bdd-0a45-4226-9e43-e7f41a139e7a.gif)
 
 
 
@@ -97,7 +97,7 @@ Denotes whether or not a customer has a credit card. This column is also relevan
 - RLS
 
 
-|• Created a Workspace (Provided workspace access within team)|
+• Created a Workspace (Provided workspace access within team)
 
 • Published
 • Dashboard
