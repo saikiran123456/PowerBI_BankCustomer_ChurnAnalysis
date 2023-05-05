@@ -14,6 +14,11 @@ Churn prevention allows companies to develop loyalty programs and retention camp
 
 [POWERPNT_3o4LoSUi1x-output.webm](https://user-images.githubusercontent.com/37768258/236507997-43d99bfa-6b5b-46ce-a9f7-9f0be4a27134.webm)
 
+
+![chrome_aM4epRA2J9](https://user-images.githubusercontent.com/37768258/236509827-4a6e6bdd-0a45-4226-9e43-e7f41a139e7a.gif)
+
+
+
 ## 1)	Data Gathering:
 
 Data assets to pull the data related to Bank customer and associated details.
